@@ -1,5 +1,5 @@
 FROM nginx:1.15.12
-MAINTAINER ski2004
+MAINTAINER ski2004 
 
 COPY default.conf /etc/nginx/conf.d
 
